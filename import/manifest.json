@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Your Extension Name",
+  "version": "1.0",
+  "description": "Description of your extension",
+  "permissions": [
+    // Add permissions your extension requires
+  ]
+}
