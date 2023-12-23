@@ -1,2 +1,2 @@
 # WindHub
-sourcecode
+This replit extension allows to import files
