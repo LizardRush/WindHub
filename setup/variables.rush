@@ -1,7 +1,0 @@
-<RTYPE notation>
-string: "hello!"
-number: 5
-array: ["lol"]
-dictionary: {
-  1: "1"
-}
